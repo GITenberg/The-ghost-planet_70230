@@ -1,0 +1,33 @@
+_repo: The-ghost-planet_70230
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Leinster, Murray
+    aliases:
+    - Jenkins, Will
+    - Jenkins, William Fitzgerald
+    - Fitzgerald, William
+    - Jenkins, Will F.
+    birthdate: 1896
+    deathdate: 1975
+    gutenberg_agent_id: '7321'
+    url: http://www.gutenberg.org/2009/agents/7321
+    wikipedia: https://en.wikipedia.org/wiki/Murray_Leinster
+description: ''
+gutenberg_issued: '2023-03-07'
+identifiers:
+  gutenberg: '70230'
+language: en
+pgterms:marc905: 20220521140157leinster
+pgterms:marc906: '1948'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aUnited States :$bStandard Magazines, Inc., $c1948.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The ghost planet
+url: http://www.gutenberg.org/ebooks/70230
